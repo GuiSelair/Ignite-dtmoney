@@ -2,7 +2,7 @@ import { Container } from "./styles";
 
 import incomeImg from '../../assets/entradas.svg';
 import outcomeImg from '../../assets/saidas.svg';
-import totalImg from '../../assets/entradas.svg';
+import totalImg from '../../assets/total.svg';
 
 export function Summary() {
   return (
